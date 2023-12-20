@@ -2,8 +2,8 @@
 
 ## Setup environment
 
-- Open with Google Colab (*recommended*) :
-https://colab.research.google.com/
+- Open with Google Colab (*recommended*) : <br>
+https://colab.research.google.com/drive/1Ztnx6_Siv1KL-A5hefiXwxISrUdRhxAy?usp=sharing
 
 - Open on local:
 ```
